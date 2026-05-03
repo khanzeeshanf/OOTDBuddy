@@ -14,7 +14,7 @@
 
 ## 🚀 Web Application
 The easiest way to use OOTDBuddy.
-- **Live Demo**: [https://YOUR_USERNAME.github.io/OOTDBuddy/](https://YOUR_USERNAME.github.io/OOTDBuddy/) (Coming soon!)
+- **Live Demo**: [OOTDBuddy]https://khanzeeshanf.github.io/OOTDBuddy/ (Coming soon!)
 - **Local Use**: Simply open `index.html` in your browser.
 
 ---
